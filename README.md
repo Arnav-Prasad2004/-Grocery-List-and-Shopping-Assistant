@@ -21,3 +21,8 @@ To provide users with a smart, decentralized tool that helps manage day-to-day g
 - Add pricing and budgeting features.
 - Integrate AI-based suggestions for recurring items.
 - Notification/reminder system when near a store (via off-chain integration).
+
+- 
+## Contract Details
+CBEWQX7EY44XOLHKTHR5RF6NWG7FTOI2DZM6XVYRRM2VQYGTSYBGXLSL
+![alt text](image.png)
